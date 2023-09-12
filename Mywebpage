@@ -1,1 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Siya B Msiza - Maths & Physics Tutor</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #ccc; /* White background */
+            color: #333; /* Dark text color */
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #008080; /* Yellow background */
+            padding: 20px;
+            text-align: center;
+        }
+        h1 {
+            font-size: 2.5em;
+            margin: 0;
+        }
+        h2 {
+            font-size: 1.5em;
+            margin: 0;
+        }
+        main {
+            padding: 20px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Siya B Msiza</h1>
+        <h2>Maths & Physics Tutor</h2>
+    </header>
+    <main>
+        <h2>About Me</h2>
+        <p>Welcome to my personal webpage. I'm Siya B Msiza,
+             a dedicated Maths & Physics tutor with a passion for helping students succeed in these subjects.
+             I believe that with the right guidance and practice,
+             anyone can excel in mathematics and physics.</p>
 
+        <h2>Services</h2>
+        <p>As a tutor, I offer the following services:</p>
+        <ul>
+            <li>One-on-One Tutoring</li>
+            <li>Group Tutoring
+            <li>Test and Exam Preparation</li>
+            <li>Homework and Assignment Assistance</li>
+            <li>Concept Clarification</li>
+        </ul>
+
+        <h2>Contact Information</h2>
+        <p>If you're interested in improving your math and physics skills or have any questions,
+             please don't hesitate to contact me:</p>
+        <p>Email: siyabester0477@gmail.com</p>
+        <p>WhatsApp: 0761117632
+        <p>Contact: 076 111 7632</a></p>
+
+        <h2>Testimonials</h2>
+        <p>Here's what some of my satisfied students have to say:</p>
+        <blockquote>
+            "Siya is an amazing tutor. Thanks to his help, I not only passed my math exams
+             but also developed a deeper understanding of the subject." - Sabelo Masilela.
+        </blockquote>
+        <blockquote>
+            "Siya's teaching style is engaging and effective. I now enjoy studying physics,
+             all thanks to him!" - Olgah Skosana.
+        </blockquote>
+    </main>
+</body>
+</html>
