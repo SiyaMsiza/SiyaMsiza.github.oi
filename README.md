@@ -33,4 +33,4 @@ I'm always open to collaborating on projects or just having a chat about the lat
 - LinkedIn: [www.linkedin.com/in/siyabonga-msiza-07506616a]
 
 ## ⚡ Fun fact:
-I'm not only a data enthusiast but also a lover of the outdoors. Nothing clears the mind like a hike in the Drakensberg mountains!
+I'm not only a data enthusiast but also a lover of the outdoors. Nothing clears the mind like a hike in the Constantia mountains!
