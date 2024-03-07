@@ -13,7 +13,7 @@ My toolkit includes a variety of languages, libraries, and technologies that ass
 - Areas of Interest: Machine Learning, Deep Learning, Natural Language Processing
 
 ## 🔭 I’m currently working on ...
-- Building predictive models for financial markets and renewable energy
+- Building predictive models for business and renewable energy
 - Participating in Kaggle competitions to hone my data science skills
 - Developing a portfolio of data science projects that demonstrate my ability to extract meaningful insights from complex datasets
 
@@ -23,7 +23,7 @@ My toolkit includes a variety of languages, libraries, and technologies that ass
 - Big Data technologies and tools for handling large-scale datasets
 
 ## 👯 I’m looking to collaborate on ...
-- Data science projects focused on social impact, particularly in finance and renewable energy
+- Data science projects focused on social impact, particularly in business and renewable energy
 - Open source projects that are at the intersection of AI and environmental sustainability
 - Initiatives aimed at making data science accessible to a wider audience, especially in underrepresented communities
 
